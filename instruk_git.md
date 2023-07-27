@@ -205,14 +205,11 @@
 
 ## Ссылки
 
-Пример ссылки на сайт:
-[Ссылка на страницу GB](https://gb.ru/)
-
 Поддерживаемые ссылки для страниц приветствия:
-* Относительный путь: [text to display](target.md)
+* Относительный путь: [Добавление ветки](/добавление%20новой%20ветки.png)
 * Абсолютный путь в Git: [text to display](/folder/target.md)
 * Абсолютный путь в TFVC: [text to display]($/project/folder/target.md)
-* URL-адрес: [text to display](http://address.com)
+* URL-адрес: [Ссылка на страницу GB](https://gb.ru/)
 
 Поддерживаемые ссылки для мини-приложения Markdown:
 * URL-адрес: [text to display](http://address.com)
