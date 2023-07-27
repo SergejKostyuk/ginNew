@@ -205,6 +205,22 @@
 
 ## Ссылки
 
+Пример ссылки на сайт:
+[Ссылка на страницу GB](https://gb.ru/)
+
+Поддерживаемые ссылки для страниц приветствия:
+* Относительный путь: [text to display](target.md)
+* Абсолютный путь в Git: [text to display](/folder/target.md)
+* Абсолютный путь в TFVC: [text to display]($/project/folder/target.md)
+* URL-адрес: [text to display](http://address.com)
+
+Поддерживаемые ссылки для мини-приложения Markdown:
+* URL-адрес: [text to display](http://address.com)
+
+Поддерживаемые ссылки для вики-сайта:
+* Абсолютный путь к вики-страницам: [text to display](/parent-page/child-page)
+* URL-адрес: [text to display](http://address.com)
+
 ## Работа с таблицами
 
 ## Цитаты
